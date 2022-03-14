@@ -46,16 +46,17 @@
 }
 
 .circle {
+  display: flex;
   position: absolute;
   left: 0;
   bottom: 0;
   font-family: "Bebas Neue", cursive;
   background: #bf2222;
+  justify-content: center;
+  align-items: center;
   width: 174px;
   height: 174px;
   border-radius: 50%;
-  justify-content: center;
-  align-items: center;
 }
 
 .price {
