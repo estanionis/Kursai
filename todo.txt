@@ -1,9 +1,1 @@
-(A) Call Mom 2022-03-18 @Phone +Family
-(A) Schedule annual checkup +Health
-(B) Outline chapter 5 +Novel @Computer
-(C) Add cover sheets @Office +TPSReports
-Plan backyard herb garden @Home
-Pick up milk @GroceryStore
-Research self-publishing services +Novel @Computer
-x Download Todo.txt mobile app @Phone
-(C) tikrinu kaip veikia @Todo +kodas 2022-03-17	
+(A) paziuret davikli
