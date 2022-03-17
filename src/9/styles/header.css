@@ -5,41 +5,42 @@ font-family: 'Montserrat', sans-serif;
 }*/
 
 header {
-  display: flex;
-  justify-content: space-between;
-  padding: 50px 56px;
+    display: flex;
+    justify-content: space-between;
+    padding: 50px 56px;
 }
 
 .express-container {
-  display: flex;
-  align-items: center;
-  justify-content: flex-end;
-  margin-bottom: 26px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    margin-bottom: 26px;
 }
 
 .express-container img {
-  margin-right: 8px;
-  height: 34px;
+    margin-right: 8px;
+    height: 34px;
 }
 
 .express-container div {
-  font-family: "Montserrat", sans-serif;
-  font-weight: 700;
-  font-size: 18px;
-  color: #3d2514;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    color: #3d2514;
 }
 
 .right-side nav a {
-  font-family: "Bebas Neue", cursive;
-  font-size: 22px;
-  letter-spacing: 4px;
-  margin: 0 26px;
-  color: #3d2514;
+    font-family: "Bebas Neue", cursive;
+    font-size: 22px;
+    letter-spacing: 4px;
+    margin: 0 26px;
+    color: #3d2514;
 }
 
 .right-side nav a:first-child {
-  margin-left: 0;
+    margin-left: 0;
 }
+
 .right-side nav a:last-child {
-  margin-right: 0;
+    margin-right: 0;
 }
