@@ -1,1 +1,1 @@
-﻿# E.S. homework
+# E.S. homework
