@@ -1,23 +1,12 @@
 header {
-	background-color: black;
+  background-color: black;
 }
 
-footer {
-	background-color: red;
-}
-
+@use "_footer";
 body {
-	font-size: 20px;
+  font-size: 20px;
 }
 
 body div {
-	font-size: 10px;
-}
-
-.test {
-	color: red;
-}
-
-.red {
-	background-color: yellow;
+  font-size: 10px;
 }

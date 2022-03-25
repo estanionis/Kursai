@@ -1,10 +1,11 @@
 @import "_header";
 
-@import "_footer";
-
-body {
+@use "_footer";
+:body  {
 	font-size: 20px;
 	div {
 		font-size: 10px;
 	}
 }
+// TODO:pataisyti use
+// FIXME: reikia paieskoti
