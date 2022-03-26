@@ -2,4 +2,4 @@
 
 =======================================================
 
-# All homework is available >> https://www.stanionis.lt
+# All homework is available >> https://stanionis.lt
